@@ -12,7 +12,7 @@ client.onreadystatechange = function() {
       slogans.push(newhats[2]);
     }
     //alert(slogans);
-    document.getElementById("slogan").innerHTML = slogans[Math.floor(Math.random()*slogans.length)].replace(/['"]+/g, '');
+    document.getElementById("sloganspan").innerHTML = slogans[Math.floor(Math.random()*slogans.length)].replace(/['"]+/g, '');
   }
 }
 client.send();
