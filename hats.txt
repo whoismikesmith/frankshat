@@ -31,3 +31,171 @@
 1,20,"alabama legsweep"
 1,21,"force field"
 1,21,"alien knight force"
+2,1,Coin-Operated
+2,1,Kill Screen
+2,2,Ready
+2,4,Field Hockey
+2,4,Coach	Balls
+2,5,And	Lips
+2,5,Half Centaur
+2,6,Karate Prom
+2,7,Ole	Right Boot
+2,7,Got It
+2,7,Handy Man
+2,7,Beef	Burrito
+2,7,Power Tool
+2,8,Atlantis Lifeguard
+2,8,Harvard	(Toofer)
+2,8,Mom Expert
+2,8,Kayfabe
+2,9,Shower Scene
+2,9,Ho Ho Horny
+2,11,Or
+2,12,Exactly
+2,13,Trap Do r
+2,13,Rescue Team
+2,14,Speling Expirt
+2,14,Read
+2,14,Sumo Dog
+2,15,Slo-bot
+3,1,Former Cyclops
+3,1,Horny
+3,2,Alien Abductee
+3,4,Role Model
+3,6,Foley Artist
+3,6,Bronx Golf Club
+3,7,Night Chicks
+3,9,Pinball Mechanic
+3,9,Phase 3
+3,9,Feelin' It
+3,12,Emotional Friend
+3,13,incompl te
+3,13,Two Fare Zone
+3,14,Reverse Pendulum
+3,15,Drapes
+3,16,VWD
+3,16,Laser Disc
+3,17,Game Changer
+3,17,Snow Ninja
+3,18,Constant Craving
+3,19,Space Gravy
+3,19,Flowers	Fedora
+3,20,Crop Octagon
+3,20,Drapes Carpet
+3,21,Mute Button
+4,1,Disco Fries
+4,1,Long Pips
+4,2,Spaceship Owner	Not Guilty
+4,3,Wet to Activate
+4,3,Seemiller Grip
+4,3,The 1st Star Fighter
+4,4,Because
+4,5,Scanner
+4,6,Sdrawkcab
+4,6,Shark Cop
+4,6,First Class
+4,7,Teenage Grandpa
+4,8,PG-25
+4,8,I'm Cool
+4,9,I Tried
+4,10,Soccer
+4,10,Karate Hockey
+4,10,In Training
+4,11,Wide and Tight
+4,11,Delete
+4,11,Night Beast
+4,12,Mason Storm
+4,12,Mind the Gap
+4,12,Pound for Pound
+4,12,Busway
+4,13,Dial-up Access
+4,13,Intestinal Fortitude
+4,15,Under the Bottom
+4,15,All the Way
+4,16,Sort of Loaded
+4,16,Free Parking
+4,16,Tow Away Zone
+4,17,Monster Truck Wrestling
+4,17,Last Shot First
+4,17,Defcon 50
+4,18,Feet	TBD
+4,19,Space Karate
+4,20,Good Pieces
+4,20,Touch Down
+4,21,Pocket Dialer
+5,1,Why.
+5,1,Bottom Feeder
+5,2,Long and Twisted
+5,3,I Did It
+5,4,Promotional
+5,4,Consideration
+5,8,Full Tank
+5,8,Speed Glue
+5,8,Cream Sauce
+5,11,Dream Reader
+5,12,Cheese Gravy
+5,12,1 Card Monte
+5,12,Man Scent
+5,13,Straining Order
+5,13,Wet Tacos
+5,15,Regional Dishonor Society
+5,15,Snake Biter
+5,16,Code Breaker
+5,17,Deli Meat
+5,17,My First Hat
+5,17,Dot Matrix
+5,18,Food Coma
+5,18,Tandem Alert
+5,19,Plumber College
+5,19,Busy Signal
+5,21,Sitting Ovation
+5,21,I Give Up
+5,22,Nap Partner
+5,22,Casual Flosser
+5,23,Van With Man
+6,1,Closet Amish
+6,2,Volunteer Pilot
+6,4,Peaked
+6,4,Vacant
+6,4,Partial Foods
+6,5,Flip Phone Owner
+6,5,Jobber	Tornadic
+6,6,Feet
+6,8,Thick
+6,9,Cryptid
+6,9,Be Cool Liz
+6,9,Suplex
+6,9,Hookie Mentor
+6,11,Dorm Food
+6,12,Not a Hat
+6,13,VHS Repairer
+6,13,Macro Fiche
+6,14,Emoticon Iliterate
+6,15,Butler School
+6,16,Click Here
+6,16,Maintenance Required
+6,16,Low Oil
+6,17,Bad Ranch
+6,18,Average Voltage
+6,18,Frank 2.0
+6,20,Push for Cheese
+6,20,Cured
+7,1	Brain Masala
+7,2	Free Zits
+7,2,Punch Ball
+7,3,Ammnesia
+7,3,Freshly Bathed
+7,4,Semi-Legal
+7,4,Lice Owner
+7,5,Voted Twice
+7,5,First Time Flosser
+7,6,Letters
+7,7,Going Stron
+7,8,Cheese Soup
+7,8,Inapropriate
+7,10,Hug Stain
+7,11,Panic Dream
+7,11,Untitled
+7,12,Taco Robot
+7,12,Your Ad Here
+7,12,Period
