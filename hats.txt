@@ -1,0 +1,33 @@
+1,1,"ninja expert",brown,black
+1,2,"done deal",white,black
+1,3,"extra sausage",yellow,red
+1,3,"joystick master",light blue, red
+1,3,"double cheese"
+1,4,"ninja expert",brown,black
+1,4,"bigfoot expert",yellow,red
+1,4,"arcade champ",red,yellow
+1,5,"hand held",white,black
+1,6,"ninja expert",brown,black
+1,6,"joystick master",blue,red
+1,7,"bigfoot expert",yellow,black
+1,8,"over easy",gray,red
+1,8,"E.S.P. tutor",green,yellow
+1,8,"kung fu beech",red,blue
+1,9,"rods",red,blue
+1,10,"karate sluts"
+1,10,"beef n bean"
+1,11,"smells"
+1,12,"high score"
+1,13,"extra cheese"
+1,14,"1,000,000 Points"
+1,14,"UFO Cop"
+1,15,"Squeeze it"
+1,16,"cool as ice"
+1,17,"doppel gang ger"
+1,17,"liz rocks"
+1,18,"mash potatoes"
+1,18,"beef ravioli"
+1,19,"atomic super kick"
+1,20,"alabama legsweep"
+1,21,"force field"
+1,21,"alien knight force"

@@ -1,0 +1,24 @@
+#wrapper{
+  position: relative;
+}
+
+#slogan {
+  width: 300px;
+ height: 100px;
+ padding: 20px;
+
+ position: absolute;
+ top: 50%;
+ left: 50%;
+
+ font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+}
